@@ -1,14 +1,14 @@
 Spoqa Han Sans for jsdelivr
 =====================
 
-## Original repo and page to introduce this font
+## Links for original repo and web page to introduce this font
 - [Github Repo](https://github.com/spoqa/spoqa-han-sans)
 - [Spoqa Han Sans Website](http://spoqa.github.io/spoqa-han-sans/)
 
 ### Differnece between original repo
-I`ve just modified css file
+I've just modified css files
 
-## How to Use
+## How to Use - not yet
 
 Import these css file.
 
